@@ -1,4 +1,25 @@
 body {
   display: flex;
   justify-content: center;
+<<<<<<< HEAD
+=======
+}
+p {
+color: red;
+}
+p {
+color: red;
+}
+p {
+color: red;
+}
+p {
+color: red;
+}
+p {
+color: red;
+}
+p {
+color: red;
+>>>>>>> 4b1b22b932307b6a12b598cade4b123af0237fd2
 }
